@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+/* pre{
+    background-color: black;
+} */
+body{
+    color: black;
+}
+ul li{
+    display: inline-block;
+    margin-left: 2em;
+}
